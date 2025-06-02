@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4faa964b.css",
-    "main.js": "/portfolio/static/js/main.a0206e16.js",
-    "static/media/aboutme.JPG": "/portfolio/static/media/aboutme.94745d4d657371156046.JPG",
-    "static/media/graduation.png": "/portfolio/static/media/graduation.85ff6234103b4ad5f7db.png",
-    "static/media/opengl.png": "/portfolio/static/media/opengl.d4b7f5c3f6e4bef38b8b.png",
-    "static/media/sql.png": "/portfolio/static/media/sql.7f7045d239b1d173a582.png",
-    "static/media/python.png": "/portfolio/static/media/python.fed454263d37eed387f8.png",
-    "static/media/c++.png": "/portfolio/static/media/c++.d29dcbab9dc538d6961d.png",
-    "static/media/c.png": "/portfolio/static/media/c.bbbbbabc8c191bfb99bf.png",
-    "static/media/java.png": "/portfolio/static/media/java.a70083c9d299caff61e0.png",
-    "index.html": "/portfolio/index.html",
-    "main.4faa964b.css.map": "/portfolio/static/css/main.4faa964b.css.map",
-    "main.a0206e16.js.map": "/portfolio/static/js/main.a0206e16.js.map"
+    "main.css": "/santiagokipp.github.io/portfolio/static/css/main.4faa964b.css",
+    "main.js": "/santiagokipp.github.io/portfolio/static/js/main.39c8ad7f.js",
+    "static/media/aboutme.JPG": "/santiagokipp.github.io/portfolio/static/media/aboutme.94745d4d657371156046.JPG",
+    "static/media/graduation.png": "/santiagokipp.github.io/portfolio/static/media/graduation.85ff6234103b4ad5f7db.png",
+    "static/media/opengl.png": "/santiagokipp.github.io/portfolio/static/media/opengl.d4b7f5c3f6e4bef38b8b.png",
+    "static/media/sql.png": "/santiagokipp.github.io/portfolio/static/media/sql.7f7045d239b1d173a582.png",
+    "static/media/python.png": "/santiagokipp.github.io/portfolio/static/media/python.fed454263d37eed387f8.png",
+    "static/media/c++.png": "/santiagokipp.github.io/portfolio/static/media/c++.d29dcbab9dc538d6961d.png",
+    "static/media/c.png": "/santiagokipp.github.io/portfolio/static/media/c.bbbbbabc8c191bfb99bf.png",
+    "static/media/java.png": "/santiagokipp.github.io/portfolio/static/media/java.a70083c9d299caff61e0.png",
+    "index.html": "/santiagokipp.github.io/portfolio/index.html",
+    "main.4faa964b.css.map": "/santiagokipp.github.io/portfolio/static/css/main.4faa964b.css.map",
+    "main.39c8ad7f.js.map": "/santiagokipp.github.io/portfolio/static/js/main.39c8ad7f.js.map"
   },
   "entrypoints": [
     "static/css/main.4faa964b.css",
-    "static/js/main.a0206e16.js"
+    "static/js/main.39c8ad7f.js"
   ]
 }
