@@ -145,7 +145,7 @@ function Home() {
           {/* Download Resume Button */}
           <div style={{ textAlign: 'center' }}>
             <a
-              href={`${process.env.PUBLIC_URL}/SantiagoKippResumeUpdated.pdf`}
+              href={`${process.env.PUBLIC_URL}/SantiagoKippResumeFinal.pdf`}
               download="Santiago-Kipp-Resume.pdf"
               style={{
                 display: 'inline-block',
