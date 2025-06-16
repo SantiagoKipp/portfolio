@@ -275,7 +275,7 @@ function Home() {
 
     <div>
       <img
-        src="../assets/scorecererlogo.png"
+        src="./assets/scorecererlogo.png"
         alt="Scorecerer Logo"
         style={{
           width: '240px',
