@@ -16,6 +16,8 @@ import html from '../assets/html.png';
 import javascript from '../assets/javascript.png';
 import emailjs from 'emailjs-com';
 import graduation from '../assets/graduation.png';
+import scorecererlogo from '../assets/scorecererlogo.png';
+
 
 const skills = [
   { name: 'Java', image: java },
@@ -275,7 +277,7 @@ function Home() {
 
     <div>
       <img
-        src="./assets/scorecererlogo.png"
+        src={scorecererlogo}
         alt="Scorecerer Logo"
         style={{
           width: '240px',
