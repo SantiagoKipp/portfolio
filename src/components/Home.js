@@ -237,32 +237,55 @@ function Home() {
         </motion.div>
 
         {/* My Projects Section */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.4, delay: 0.3 }}
-          style={{ marginTop: '3rem', textAlign: 'center' }}
-        >
-          <h2
-            style={{
-              fontFamily: 'Orbitron, sans-serif',
-              color: 'var(--accent-color)',
-              fontSize: '2rem',
-              marginBottom: '0.5rem',
-            }}
-          >
-            My Projects
-          </h2>
-          <p
-            style={{
-              fontFamily: 'Inter, sans-serif',
-              fontSize: '1rem',
-              color: '#cccccc',
-            }}
-          >
-            Coming Soon...
-          </p>
+        {/* My Projects Section */}
+<motion.div
+  initial={{ opacity: 0, y: 20 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  viewport={{ once: true }}
+  transition={{ duration: 0.4, delay: 0.3 }}
+  style={{ marginTop: '3rem', textAlign: 'center' }}
+>
+  <h2
+    style={{
+      fontFamily: 'Orbitron, sans-serif',
+      color: 'var(--accent-color)',
+      fontSize: '2rem',
+      marginBottom: '1rem',
+    }}
+  >
+    My Projects
+  </h2>
+
+  <div style={{ marginBottom: '2rem' }}>
+    <a
+      href="https://www.scorecerer.app"
+      target="_blank"
+      rel="noreferrer"
+      style={{
+        display: 'inline-block',
+        fontSize: '1.2rem',
+        fontWeight: 'bold',
+        color: 'var(--accent-color)',
+        textDecoration: 'none',
+        marginBottom: '1rem',
+      }}
+    >
+      ⚾ My MLB Machine Learning Model — Scorecerer.app
+    </a>
+
+    <div>
+      <img
+        src="../assets/scorecererlogo.png"
+        alt="Scorecerer Logo"
+        style={{
+          width: '240px',
+          marginTop: '1rem',
+          borderRadius: '10px',
+          boxShadow: '0 0 15px var(--accent-color)',
+        }}
+        />
+        </div>
+        </div>
         </motion.div>
 
         {/* Contact Form */}
